@@ -1,8 +1,11 @@
 <?php
-$x= 5;
-$y= "john";
+$texto = "isso é um texto";
+$n1 = 2;
+$n2 = 3;
 
-echo $x;
+echo $texto;
 echo "<br>";
-echo $y;
+echo gettype("texto"), "<br>";
+echo gettype($n1);
+
 ?>
