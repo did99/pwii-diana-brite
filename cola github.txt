@@ -1,0 +1,15 @@
+Ao chegar na escola:
+
+1- Logar no Github
+2 - Pesquisar Git config no google e acessar o primeiro resultado
+3 - Utilizar os comandos (1 por vez):
+	git config --global user.name "Seu Nome"
+	git config --global user.email seuemail@email.com
+4 - Entrar na pasta pelo terminal listando com o comando: 'ls' para verificar se ela foi baixada e em seguida 'cd nome da pasta' para entrar. Se deu certo vai mostrar a msg '(main)' no final do seu terminal.
+
+Para mandar coisas no Github
+
+1 - Git status (vermelho são coisas pra se colocar no 'envelope' e verde já estão dentro dele)
+2 - Git add . ou Git add nome do arquivo para colocar no envelope
+3 - git commit -m "mensagem na terceira pessoa" para comentar. Só vai funcionar se vc fez a config certa
+4 - git push escolhendo as opções do botão azul para abrir o navegador e validar a subida para a nuvem
